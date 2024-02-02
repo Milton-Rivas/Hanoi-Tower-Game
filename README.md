@@ -18,3 +18,4 @@ This puzzle game where the objective is to move an entire stack of disks from th
   - Example: $2^3-1=7$
 
 ### Screenshot
+https://github.com/Milton-Rivas/hanoi/assets/118496465/c39717bb-51a6-4f79-81cf-c941e665f532
